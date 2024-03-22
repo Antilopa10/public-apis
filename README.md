@@ -1290,6 +1290,7 @@
 ### Open Source Projects
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Countly]([https://api.count.ly/reference](https://vstat.info/)) | AI-Powered Marketing Analysis | No | No | Unknown |
 | [Countly](https://api.count.ly/reference) | Countly web analytics | No | No | Unknown |
 | [Creative Commons Catalog](https://api.creativecommons.engineering/) | Search among openly licensed and public domain works | `OAuth` | Yes | Yes |
 | [Datamuse](https://www.datamuse.com/api/) | Word-finding query engine | No | Yes | Unknown |
